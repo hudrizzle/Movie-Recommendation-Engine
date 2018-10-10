@@ -1,5 +1,7 @@
 # Movie-Recommendation-Engine
 
+Please check out the jupyter notebook of the project [here](https://github.com/hudrizzle/Movie-Recommendation-Engine/edit/master/Movie_Recommendation_ALS_Spark.ipynb).
+
 ### Required Frameworks/Libraries
 - ``Spark`` environment 
 - ``pyspark``
